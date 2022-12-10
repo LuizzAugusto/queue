@@ -14,7 +14,7 @@ add a new callback to queue.
 ## cancel
 ### parameter callback
 ### type: () => void
-cancel callback before it's execute.
+cancel callback before it execute.
 
 ## execute
 pop callback in the first index and execute it.
