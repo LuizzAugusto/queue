@@ -8,10 +8,12 @@ Queue factory for Javascript
 
 ## add
 ### parameter callback
+### type: () => void
 add a new callback to queue.
 
 ## cancel
 ### parameter callback
+### type: () => void
 cancel callback before it's execute.
 
 ## execute
