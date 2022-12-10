@@ -5,7 +5,7 @@
   "description": "Queue factory for Javascript",
   "main": "queue_test.js",
   "scripts": {
-    "test": "node queue_test"
+    "test": "node ."
   },
   "author": "Luiz Augusto Schneider da Silva",
   "license": "unlicense"
