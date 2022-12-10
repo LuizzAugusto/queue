@@ -1,0 +1,12 @@
+{
+  "name": "queue",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Queue factory for Javascript",
+  "main": "queue_test.js",
+  "scripts": {
+    "test": "node queue_test"
+  },
+  "author": "Luiz Augusto Schneider da Silva",
+  "license": "unlicense"
+}
